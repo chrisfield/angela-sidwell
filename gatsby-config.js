@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  pathPrefix: "/angela-sidwell",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
