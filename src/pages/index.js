@@ -1,8 +1,25 @@
 import React from "react"
+import { graphql } from "gatsby"
+import Img from "gatsby-image"
 import Layout from "../components/layout"
 
-export default () => (
+export default ({ data }) => (
   <Layout>
-    <img src="/images/fox-head.jpg" alt="Cermic foxhead, wall-mounted, includes wire mesh suggesting shape of the neck"/>
+      <Img
+        fluid={data.file.childImageSharp.fluid}
+        alt="fox"
+      />
   </Layout>
 )
+
+export const query = graphql`
+  query {
+    file(relativePath: { eq: "fox-head.jpg" }) {
+      childImageSharp {
+        fluid {
+          ...GatsbyImageSharpFluid
+        }
+      }
+    }
+  }
+  `

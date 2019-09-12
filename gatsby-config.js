@@ -15,10 +15,23 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-react-svg',
       options: {
-          rule: {
-            include: /\.inline\.svg$/
-          }
+        rule: {
+          include: /\.inline\.svg$/
+        }
       }
     },
-  ],
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
+    { 
+      resolve: `gatsby-source-filesystem`,
+      options: { path: `./src/data/` }
+    },
+    `gatsby-transformer-yaml`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/data/`,
+      }
+    }
+  ]
 }
