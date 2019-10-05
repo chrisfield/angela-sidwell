@@ -1,13 +1,15 @@
 images:
   - image: fox.jpg
     alt: fox
-  - image: barn-owl.jpg
+  - image: gold-finches.jpg
+  - image: fox2.jpg
+  - image: horse-head.jpg
+    alt: horse head
+  - image: raku-horse-nose.jpg
+  - image: grazing-horse.jpg
   - image: edgeland-fox.jpg
-  - image: ghost.jpg
-  - image: habitation4.jpg
+  - image: crossing-point.jpg
   - image: crossing-point-detail.jpg
-  - image: habitation2.JPG
+  - image: deer-ceramic-and-wire.jpg
   - image: habitation.jpg
-  - image: crossing-point.JPG
-  - image: fox-track.jpg
-  - image: habitation3.jpg
+  - image: horse-head2.jpg
