@@ -1,1 +1,1 @@
-{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","webpackCompilationHash":"3aaae9ef9b2ffd1c6838","result":{"data":{"allSitePage":{"nodes":[{"path":"/contact/"},{"path":"/gallery/"},{"path":"/"},{"path":"/statement/"}]}},"pageContext":{"isCreatedByStatefulCreatePages":true}}}
+{"componentChunkName":"component---cache-dev-404-page-js","path":"/dev-404-page/","result":{"data":{"allSitePage":{"nodes":[{"path":"/contact/"},{"path":"/gallery/"},{"path":"/"},{"path":"/statement/"},{"path":"/events/"}]}},"pageContext":{}}}
