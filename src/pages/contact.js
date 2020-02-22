@@ -6,7 +6,7 @@ export default () => (
     <p>
       Email <a href="mailto:angela@angelasidwell.com">angela@angelasidwell.com</a>
       <br/>
-      Instagram <a href="https://www.instagram.com/angela_sidwell_artist/" target="_blank" rel="noopener">angela_sidwell_artist</a>
+      Instagram <a href="https://www.instagram.com/angela_sidwell_artist/">angela_sidwell_artist</a>
     </p>
   </Layout>
 )
