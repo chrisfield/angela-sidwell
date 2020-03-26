@@ -1,11 +1,22 @@
 import React from "react"
 import Layout from "../components/layout"
+import layoutStyles from "../components/layout.module.css"
 
 export default () => (
   <Layout>
-    <h2>Upcoming Shows and Exhibitions 2020</h2> 
+    <h2>Shows and Exhibitions 2020</h2>
+    <p>
+      Due to the current and uncertain situation, some shows may be cancelled or postponed. Gallery opening times may be irregular or by appointment only, please see their websites for details.
+      Please email me angela@angelasidwell.com if you are interested in purchasing or commissioning a piece directly from me.
+      <br />
+      Online shop coming soon
+      <br /><br/>
+      Best Wishes
+      <br />
+      Angela
+    </p>
     
-    <h3>April 9th – April 25th</h3>
+    <h3>April 9th – April 25th <span className={layoutStyles.red}>*Postponed*</span></h3>
     <p>
       <a href="http://gallery6newark.co.uk">
         Gallery 6 - Newark
@@ -16,7 +27,7 @@ export default () => (
       Gallery 6, 6 Stodman Street, Newark NG24 1AN
     </p>
 
-    <h3>June 26th -28th</h3>
+    <h3>June 26th -28th <span className={layoutStyles.red}>*Cancelled*</span></h3>
     <p>
       <a href="http://earthandfire.co.uk">
         Earth and Fire Ceramic Fair
@@ -25,7 +36,7 @@ export default () => (
       Harley Gallery, Welbeck, Nottinghamshire S80 3LW. 
     </p>
 
-    <h3>July 11th -12th</h3>
+    <h3>July 11th -12th <span className={layoutStyles.red}>*Cancelled*</span></h3>
     <p>
       <a href="http://ceramicwales.co.uk">Ceramic Wales</a>
       <br />
