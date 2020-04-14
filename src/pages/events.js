@@ -57,7 +57,7 @@ export default () => (
       <a href="http://www.oakowlfox.com">OakOwlFox</a>, Crown Buildings, Station Road, Llanrwst LL26 0EP
     </p>
     <p>
-      <a href="http://www.oakowlfox.com">Gallery 6</a>, Stodman Street, Newark NG24 1AN
+      <a href="http://www.gallery6newark.co.uk/">Gallery 6</a>, Stodman Street, Newark NG24 1AN
     </p>
   </Layout>
 )
