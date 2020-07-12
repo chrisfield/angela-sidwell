@@ -43,7 +43,7 @@ export default () => (
       Wrexham Glyndwr University, Mold Road, Wrexham LL11 2AW 
     </p>
 
-    <h3>August 30th</h3>
+    <h3>August 30th <span className={layoutStyles.red}>*Cancelled*</span></h3>
     <p>
       <a href="http://ceramicsinsouthwell.org.uk">
         Ceramics in Southwell
