@@ -33,6 +33,9 @@ export default ({ data }) => {
             <a style={{ textDecoration: 'none' }} href="http://www.greatnorthernevents.co.uk/homepage-gnccf.aspx">(GNCCF Online 2020)</a>.
           </p>
           <p>
+            If an item has sold and you might like to buy simular piece please let me know. I can forward pictures of the future simular pieces.
+          </p>
+          <p>
             The prices include postage within UK I also post items internationally. Please email or message me on instagram if you would like to purchase something or if you have any questions. Thank you! 
           </p>
           <p>
