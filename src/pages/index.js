@@ -8,7 +8,7 @@ export default ({ data }) => (
   <Layout>
       <div style={{ marginBottom: '2em' }}>
         <div>
-          See my work at Great Northern Contemporary Craft Fair Online <Link to="/gnccf">here</Link>
+          View/purchase my work at Great Northern Contemporary Craft Fair Online <Link to="/gnccf">here</Link>
         </div>
       </div>
       <Img

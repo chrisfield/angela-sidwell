@@ -21,13 +21,21 @@ export default ({ data }) => {
   return (
     <Layout  className={galleryStyles.album}>
       <section>
-        <img src={'/gnccf.jpg'} alt="GNCCF Logo" />
         <div style={{ 
           marginBottom: '1em',
           padding: '1em',
           borderBottom: '1px solid #cfcfcf',
           borderTop: '1px solid #cfcfcf' 
         }}>
+          <p style={{ fontSize: '1.2em', color: 'red'}}>
+            Please email or message me on instagram if you would like to purchase something or if you have any questions. Thank you!
+          </p>
+          <p>
+            Email <a href="mailto:angela@angelasidwell.com">angela@angelasidwell.com</a>
+            <br/>
+            Instagram <a href="https://www.instagram.com/angela_sidwell_artist/">angela_sidwell_artist</a>
+          </p>
+          <img src={'/gnccf.jpg'} alt="GNCCF Logo" />
           <p>
             The sculptures on this page curently feature in the Great Northern Contemporary Craft Fair 
             <a style={{ textDecoration: 'none' }} href="http://www.greatnorthernevents.co.uk/homepage-gnccf.aspx">(GNCCF Online 2020)</a>.
@@ -36,12 +44,7 @@ export default ({ data }) => {
             If an item has sold and you would like to buy a similar piece please let me know. I can forward pictures of future pieces.
           </p>
           <p>
-            The prices include postage within UK I also post items internationally. Please email or message me on instagram if you would like to purchase something or if you have any questions. Thank you! 
-          </p>
-          <p>
-            Email <a href="mailto:angela@angelasidwell.com">angela@angelasidwell.com</a>
-            <br/>
-            Instagram <a href="https://www.instagram.com/angela_sidwell_artist/">angela_sidwell_artist</a>
+            The prices include postage within UK I also post items internationally.  
           </p>
         </div>
 
