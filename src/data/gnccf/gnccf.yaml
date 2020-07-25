@@ -1,10 +1,11 @@
 images:
   - image: 1.jpg
     alt: Fox Heads
+    sold: false
     text: Fox heads £55 each, hand sculpted stoneware paperclay with oxides and volcanic glazes. 10cm high, 10cm wide.
   - image: 2.jpg
     alt: Curled up fox
-    text: Asleep in The Moss £325, hand sculpted stoneware paperclay with oxides and volcanic glazes, steel wire additions, 12cm high, 28cm wide, 19cm deep.
+    text: Fox Asleep in the Moss £325, hand sculpted stoneware paperclay with oxides and volcanic glazes, steel wire additions, 12cm high, 28cm wide, 19cm deep.
   - image: 3.jpg
     text: Hare, £65, hand sculpted stoneware paperclay with oxides and volcanic glazes. 18cm high, 9cm wide, 9cm deep.
   - image: 4.jpg
@@ -14,6 +15,6 @@ images:
   - image: 6.jpg
     text: White Horse Head, £225, hand sculpted stoneware paperclay with copper oxide and white engobe. Oak base. 24cm high, 10cm wide, 12cm deep.
   - image: 7.jpg
-    text: Wall mounted horse heads £70 -£75 each, hand sculpted stoneware paperclay with copper oxide and white engobe. Keyhole fixture at the back for wall hanging, 17 -20cm high, 9cm wide, 6cm deep.
+    text: Wall mounted horse heads £75 -£80 each, hand sculpted stoneware paperclay with copper oxide and white engobe. Keyhole fixture at the back for wall hanging, 17 -20cm high, 9cm wide, 6cm deep.
   - image: 8.jpg
     text: Raku and smoke fired horse heads, £60 each, hand sculpted stoneware paperclay with oxides and raku glazes. 21-23cm high, 9cm wide, 9cm deep.

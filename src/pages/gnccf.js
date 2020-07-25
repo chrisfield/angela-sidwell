@@ -5,6 +5,17 @@ import Layout from "../components/layout"
 import galleryStyles from "./gallery.module.css"
 import gnccfStyles from "./gnccf.module.css"
 
+const Sold = ({sold}) => {
+  if (sold)
+    return <span style={{
+      backgroundColor: '#ffcccb',
+      padding: '10px', 
+      borderRadius: '5px',
+      marginRight: '1em'
+    }}>Sold </span>
+  return null;
+}
+
 export default ({ data }) => {
   // const images = data.allGnccfYaml.edges[0].node.images;
   return (
@@ -18,11 +29,11 @@ export default ({ data }) => {
           borderTop: '1px solid #cfcfcf' 
         }}>
           <p>
-            The sculptures on this page are part of the Great Northern Contemporary Craft Fair 
+            The sculptures on this page curently feature in the Great Northern Contemporary Craft Fair 
             <a style={{ textDecoration: 'none' }} href="http://www.greatnorthernevents.co.uk/homepage-gnccf.aspx">(GNCCF Online 2020)</a>.
           </p>
           <p>
-            The prices include postage within UK. I'm also used to posting items internationally. Please email or message me on instagram if you would like to buy something or if you have any questions. Thank you! 
+            The prices include postage within UK I also post items internationally. Please email or message me on instagram if you would like to purchase something or if you have any questions. Thank you! 
           </p>
           <p>
             Email <a href="mailto:angela@angelasidwell.com">angela@angelasidwell.com</a>
@@ -31,7 +42,7 @@ export default ({ data }) => {
           </p>
         </div>
 
-        {data.allGnccfYaml.edges[0].node.images.map(({image, alt, text}, index) =>
+        {data.allGnccfYaml.edges[0].node.images.map(({image, alt, text, sold}) =>
           <div>
             <Img
               className={galleryStyles.image}
@@ -39,7 +50,7 @@ export default ({ data }) => {
               alt={alt || image.name}
             />
             <div className={gnccfStyles.imageText}>
-              { text }
+              <Sold sold={sold}/>{ text }
             </div>
           </div>
         )}
@@ -66,6 +77,7 @@ export const query = graphql`
             }
             alt
             text
+            sold
           }
         }
       }
