@@ -13,7 +13,7 @@ export default ({ data }) => (
         <Img
           className={galleryStyles.image}
           fluid={image.image.childImageSharp.fluid}
-          alt={image.alt || image.image.name}
+          alt={image.image.name}
         />
       </div>
     )}
