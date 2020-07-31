@@ -1,4 +1,7 @@
 images:
+  - image: horse-nose-small.jpg
+    alt: Small horse nose
+    text: Hand modelled ceramic horse nose, stoneware paperclay with white engobe and copper oxide, length 10cm, £45.
   - image: 0.jpg
     alt: Hare head
     text: White hare head, hand modelled in stoneware paperclay, with copper oxide and white engobe. Height 17cm, £65.
@@ -6,6 +9,9 @@ images:
   - image: 1.jpg
     alt: Fox Heads
     text: Fox heads £55 each, hand sculpted stoneware paperclay with oxides and volcanic glazes. 10cm high, 10cm wide.
+  - image: horse-nose-large.jpg
+    alt: Large horse nose
+    text: Hand modelled ceramic horse nose, stoneware paperclay with white engobe and copper oxide, length 15cm, £65.
   - image: 2.jpg
     alt: Curled up fox
     text: Fox Asleep in the Moss £325, hand sculpted stoneware paperclay with oxides and volcanic glazes, steel wire additions, 12cm high, 28cm wide, 19cm deep.
