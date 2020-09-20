@@ -13,6 +13,8 @@ export default () => (
       Angela
     </p>
 
+    <hr/>
+
     <h2>Forthcoming Shows and Exhibitions 2020</h2>
     
     <h3>7th – 31st October 2020</h3>
@@ -29,13 +31,15 @@ export default () => (
     <h3>November 20th – 22nd 2020</h3>
     <p>
       <a href="https://yorkceramicsfair.com/">
-        York Cermics Fair
+        York Ceramics Fair
       </a>
       <br />
       (Private View/Opening on Friday 20th, 6pm – 9pm)
       <br />
       The Hospitium, Museum Gardens, York, YO30 07DR
     </p>
+
+    <hr/>
 
     <h2>Current Stockists</h2>
     <p>
