@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 export default () => (
   <Layout>
     <p>
-      Please email me angela@angelasidwell.com if you are interested in purchasing or commissioning a piece directly from me.
+      Please email me at angela@angelasidwell.com if you are interested in purchasing or commissioning a piece directly from me.
       <br />
       Online shop coming soon
       <br /><br/>
