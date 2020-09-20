@@ -17,7 +17,7 @@ export default () => (
     
     <h3>7th – 31st October 2020</h3>
     <p>
-      <a href="http://gallery6newark.co.uk">
+      <a href="https://gallery6newark.co.uk/traces/">
         Gallery 6 - Newark
       </a>
       <br />
