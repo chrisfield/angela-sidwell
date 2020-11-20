@@ -41,7 +41,7 @@ export default ({ data }) => {
             <a style={{ textDecoration: 'none' }} href="http://www.greatnorthernevents.co.uk/homepage-gnccf.aspx">(GNCCF Online 2020)</a>.
           </p>
           <p>
-            If an item has sold and you would like to buy a similar piece please let me know. I can forward pictures of future pieces.
+            If an item has sold and you would like to buy a similar piece please let me know.
           </p>
           <p>
             The prices include postage within UK I also post items internationally.  
