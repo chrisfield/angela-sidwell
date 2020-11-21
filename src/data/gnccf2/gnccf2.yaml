@@ -14,6 +14,7 @@ images:
     text: Morning Sun  £225, Stoneware paperclay, oxides, volcanic glazes. 30cm(h) x  15cm(w) x 18cm(d)
   - image: 6.jpg
     text: The Watchman  £295, Stoneware paperclay, oxides, volcanic glazes. 14cm(h) x  13cm(w) x 22cm(d)
+    sold: true
   - image: 7.jpg
     text: White Hare Head £65, Stoneware paperclay, copper oxide, white engobe. 18cm(h) x  10cm(w) x 10cm(d)
     sold: true
