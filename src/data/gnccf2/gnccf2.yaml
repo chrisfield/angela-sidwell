@@ -9,13 +9,14 @@ images:
     text: Hare Head £225, Stoneware paperclay, oxides, volcanic glazes. Oak Base. 31cm(h) x  13cm(w) x 13cm(d) 
   - image: 4.jpg
     text: Horse Head (wall hung)  £150, Stoneware paperclay, copper oxide, white engobe. Keyhole fixture for wall hanging. 20cm(h) x  20cm(w) x 12cm(d)
+    sold: true
   - image: 5.jpg
     text: Morning Sun  £225, Stoneware paperclay, oxides, volcanic glazes. 30cm(h) x  15cm(w) x 18cm(d)
   - image: 6.jpg
     text: The Watchman  £295, Stoneware paperclay, oxides, volcanic glazes. 14cm(h) x  13cm(w) x 22cm(d)
   - image: 7.jpg
     text: White Hare Head £65, Stoneware paperclay, copper oxide, white engobe. 18cm(h) x  10cm(w) x 10cm(d)
-    sold: false
+    sold: true
   - image: 8.jpg
     text: Goldfinches £80 each, Porcelain paperclay. Oak and steel base. Approx 23cm high (including base)
   - image: 9.jpg
@@ -23,7 +24,8 @@ images:
   - image: 11.jpg
     text: Horse Head (wall hung) £150, Stoneware paperclay, copper oxide, white engobe. Keyhole fixture for wall hanging. 20cm(h) x 20cm(w) x 12cm(d)
   - image: 12.jpg
-    text: Rust Squirrel Head £55, Stoneware paperclay, oxide & volcanic glazes. 10cm x 10cm x 10cm. (I also have one in white engobe)
+    text: (but I have one available in white engobe) Squirrel Head £55, Stoneware paperclay, oxide & volcanic glazes. 10cm x 10cm x 10cm.
+    sold: true
   - image: 13.jpg
     text: Rust Fox Head £55, Stoneware paperclay, oxide & volcanic glazes. 10cm x 10cm x 10cm
   - image: 14.jpg
