@@ -2,6 +2,7 @@ images:
   - image: 1.jpg
     alt: Deer Head
     text: Deer Head £80, Stoneware paperclay, oxides, volcanic glazes. 17cm(h) x  12cm(w) x 12cm(d)
+    sold: true
   - image: 2.jpg
     alt: Edgeland Squirrel
     text: Edgeland Squirrel  £295, Stoneware paperclay, oxides, volcanic glazes. 13cm(h) x  13cm(w) x 19cm(d)
@@ -29,6 +30,7 @@ images:
     sold: true
   - image: 13.jpg
     text: Rust Fox Head £55, Stoneware paperclay, oxide & volcanic glazes. 10cm x 10cm x 10cm
+    sold: true
   - image: 14.jpg
     text: Donkey £160, Stoneware paperclay, copper oxide, white engobe, oak base. 24cm(h). All proceeds go to Safe Haven For Donkeys. 
     
