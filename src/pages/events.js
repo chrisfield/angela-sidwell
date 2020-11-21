@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
+import layoutStyles from "../components/layout.module.css"
 
 export default () => (
   <Layout>
@@ -28,7 +29,7 @@ export default () => (
       Gallery 6, 6 Stodman Street, Newark NG24 1AN
     </p>
 
-    <h3>November 20th – 22nd 2020</h3>
+    <h3>November 20th – 22nd 2020 <span className={layoutStyles.red}>* Cancelled *</span></h3>
     <p>
       <a href="https://yorkceramicsfair.com/">
         York Ceramics Fair
@@ -39,6 +40,20 @@ export default () => (
       The Hospitium, Museum Gardens, York, YO30 07DR
     </p>
 
+    <h3>November 21st – 22nd 2020</h3>
+    <p>
+      <a href="http://www.greatnorthernevents.co.uk/homepage-gnccf/gnccfonline-christmas-edition.aspx">
+        Great Northern Contemporary Craft Fair online : Christmas Edition
+      </a>
+    </p>
+
+    <h3>December 4th – 5th 2020</h3>
+    <p>
+      <a href="https://www.instagram.com/quarantinecraftfair/">
+        Quarantine Craft Fair on Instagram @quarantinecraftfair
+      </a>
+    </p>
+
     <hr/>
 
     <h2>Current Stockists</h2>
@@ -46,7 +61,7 @@ export default () => (
       <a href="https://www.oakowlfox.com">OakOwlFox</a>, Crown Buildings, Station Road, Llanrwst LL26 0EP
     </p>
     <p>
-      <a href="http://www.gallery6newark.co.uk/">Gallery 6</a>, Stodman Street, Newark NG24 1AN
+      <a href="http://www.gallery6newark.co.uk/">Gallery 6</a>, Stodman Street, Newark NG24 1AN 
     </p>
     <p>
       <a href="https://www.northernmakes.com/">Northen Makes</a>, Clarence Mill, Waterside, Clarence Rd, Bollington, SK10 5GR
