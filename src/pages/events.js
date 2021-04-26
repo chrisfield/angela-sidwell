@@ -6,8 +6,6 @@ export default () => (
   <Layout>
     <p>
       Please email angela@angelasidwell.com if you are interested in purchasing or commissioning a piece directly from me.
-      <br />
-      Online shop coming soon
       <br /><br/>
       Best Wishes
       <br />
@@ -16,47 +14,32 @@ export default () => (
 
     <hr/>
 
-    <h2>Forthcoming Shows and Exhibitions 2020</h2>
-    
-    <h3>7th – 31st October 2020</h3>
+    <h2>Shows and Exhibitions</h2>
+
+    <h3>29th August 2021</h3>
     <p>
-      <a href="https://gallery6newark.co.uk/traces/">
-        Gallery 6 - Newark
-      </a>
+      <a href="http://www.ceramicsinsouthwell.org.uk/">Ceramics in Southwell</a>
       <br />
-      <strong>“Traces”</strong> - a solo exhibition
-      <br />
-      Gallery 6, 6 Stodman Street, Newark NG24 1AN
+      Market Square, Southwell, Nottinghamshire NG25
     </p>
 
-    <h3>November 20th – 22nd 2020 <span className={layoutStyles.red}>* Cancelled *</span></h3>
+    <h3>1st to 25th September 2021</h3>
     <p>
-      <a href="https://yorkceramicsfair.com/">
-        York Ceramics Fair
-      </a>
+      Exhibition with <a href="https://www.bridgetgreenwood.com/">Bridget Greenwood</a> at <a href="https://gallery6newark.co.uk">Gallery 6</a>
       <br />
-      (Private View/Opening on Friday 20th, 6pm – 9pm)
+      Stodman Street, Newark NG24 1AN
+    </p>
+
+    <h3>8th to 10th October 2021</h3>
+    <p>
+      <a href="https://www.greatnorthernevents.co.uk">The Great Northern Contemporary Craft Fair Manchester</a>
       <br />
-      The Hospitium, Museum Gardens, York, YO30 07DR
+      Victoria Baths, Hathersage Road, Manchester, M13 0FE
     </p>
-
-    <h3>November 21st – 22nd 2020</h3>
-    <p>
-      <a href="http://www.greatnorthernevents.co.uk/homepage-gnccf/gnccfonline-christmas-edition.aspx">
-        Great Northern Contemporary Craft Fair online : Christmas Edition
-      </a>
-    </p>
-
-    <h3>December 4th – 5th 2020</h3>
-    <p>
-      <a href="https://www.instagram.com/quarantinecraftfair/">
-        Quarantine Craft Fair on Instagram @quarantinecraftfair
-      </a>
-    </p>
-
+ 
     <hr/>
 
-    <h2>Current Stockists</h2>
+    <h2>Stockists</h2>
     <p>
       <a href="https://www.oakowlfox.com">OakOwlFox</a>, Crown Buildings, Station Road, Llanrwst LL26 0EP
     </p>
@@ -66,5 +49,9 @@ export default () => (
     <p>
       <a href="https://www.northernmakes.com/">Northen Makes</a>, Clarence Mill, Waterside, Clarence Rd, Bollington, SK10 5GR
     </p>
+    <p>
+      <a href="https://www.objettrouve.co.uk/">Objet Trouvé</a>, 1 Steamer Cottages, High St, Alfriston, Polegate BN26 5TY
+    </p>
+
   </Layout>
 )
