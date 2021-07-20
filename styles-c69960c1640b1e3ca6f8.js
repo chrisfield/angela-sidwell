@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{UNbL:function(o,e,l){o.exports={link:"footer-module--link--3ahiR",links:"footer-module--links--9DoeT"}},fcpr:function(o,e,l){o.exports={red:"layout-module--red--2CdZD"}},uzhU:function(o,e,l){o.exports={album:"gallery-module--album--2uccu",image:"gallery-module--image--2nhHZ"}}}]);
-//# sourceMappingURL=styles-c69960c1640b1e3ca6f8.js.map
