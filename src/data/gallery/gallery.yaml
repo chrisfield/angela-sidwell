@@ -1,15 +1,16 @@
 images:
+  - image: deer-head.jpg
+    alt: deer-head
+  - image: resting-horse-head.jpg
+  - image: fragmented-hare-sitting.jpg
+  - image: fragmented-hare-grazing.jpg
+  - image: angela-holding-curled-up-fox.jpg
+  - image: hare.jpg
+  - image: three-horses.jpg
   - image: fox.jpg
-    alt: fox
   - image: gold-finches.jpg
   - image: fox2.jpg
-  - image: horse-head.jpg
-    alt: horse head
   - image: raku-horse-nose.jpg
-  - image: grazing-horse.jpg
   - image: edgeland-fox.jpg
-  - image: crossing-point.jpg
-  - image: crossing-point-detail.jpg
-  - image: deer-ceramic-and-wire.jpg
   - image: habitation.jpg
-  - image: horse-head2.jpg
+  

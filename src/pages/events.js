@@ -1,6 +1,5 @@
 import React from "react"
 import Layout from "../components/layout"
-import layoutStyles from "../components/layout.module.css"
 
 export default () => (
   <Layout>
@@ -21,6 +20,15 @@ export default () => (
       <a href="http://www.ceramicsinsouthwell.org.uk/">Ceramics in Southwell</a>
       <br />
       Market Square, Southwell, Nottinghamshire NG25
+    </p>
+
+    <h3>4th and 5th September 2021 (10am to 5pm)</h3>
+    <p>
+      York Ceramics Fair
+      <br />
+      York St John University, Lord Mayors Walk, York, YO31 ZEX
+      <br />
+      Organised by <a href="https://www.craftpotters.com/">Craft Potters Association</a>
     </p>
 
     <h3>1st to 25th September 2021</h3>
@@ -52,6 +60,8 @@ export default () => (
     <p>
       <a href="https://www.objettrouve.co.uk/">Objet Trouvé</a>, 1 Steamer Cottages, High St, Alfriston, Polegate BN26 5TY
     </p>
-
+    <p>
+      <a href="https://www.artysancotswolds.co.uk/">Artysan Cotswolds</a>, The Square, Stow-on-the-Wold, Gloucestershire, GL54 1AF
+    </p>
   </Layout>
 )
