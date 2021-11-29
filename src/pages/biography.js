@@ -7,13 +7,13 @@ export default () => (
     <h2>Training</h2>
 
     <p>
-    2018 MA Design:Ceramics (distinction)
+    2018: MA Design-Ceramics (distinction)
     <br />
     Manchester School of Art.
     </p>
 
     <p>
-    1999 BA(Hons) Art with English Literature
+    1999: BA(Hons) Art with English Literature
     <br />
     Chester University.
     </p>
@@ -30,6 +30,8 @@ export default () => (
         </li>
         <li>
             Ceramics in Southwell.
+        </li>
+        <li>
             Joint Exhibition with Bridget Greenwood at Gallery 6, Newark-on-Trent.
         </li>
     </ul>
@@ -76,7 +78,7 @@ export default () => (
         </li>
     </ul>
 
-    <h3>1999 -2017</h3>
+    <h3>1999-2017</h3>
     <p>
       During this time my work predominantly consisted of public art commissions, artist residencies, exhibitions, school art projects and specialist workshops; working in wood, wire and stone.
     </p>
@@ -84,27 +86,27 @@ export default () => (
       I moved into ceramics in 2016 and have specialised in ceramic sculpture since 2017
     </p>
 
-    <h2>Selected exhibitions and commissions</h2>
+    <strong>Selected exhibitions and commissions</strong>:
     <p>
-      2016 Book Tree ( large oak tree turned into a book library)and wooden seating area.  Commissioned by and for “Old Town Bloom Community Garden”  Runcorn, Cheshire.
+      2016: <i>Book Tree</i> (large oak tree turned into a book library) and wooden seating area.  Commissioned by and for “Old Town Bloom Community Garden”  Runcorn, Cheshire.
     </p>
     <p>
-      2015 Messengers and Promises - joint exhibition with Kate Herbert at Ordsall Hall, Salford.
+      2015: <i>Messengers and Promises</i>. Joint exhibition with Kate Herbert at Ordsall Hall, Salford.
     </p>
     <p>
-      2009 Stone Heads - three carved sandstone heads based on a Viking, Saxon Warrior and Ethelfleda – now sited at The Brindley Arts Centre, Runcorn.  Commissioned by Halton Borough Council.
+      2009: <i>Stone Heads</i>. Three carved sandstone heads based on a Viking, Saxon Warrior and Ethelfleda – now sited at The Brindley Arts Centre, Runcorn.  Commissioned by Halton Borough Council.
     </p>
     <p>
-      2009 Animal exhibition, Stroud House Gallery, Gloucestershire.
+      2009: <i>Animal</i> exhibition, Stroud House Gallery, Gloucestershire.
     </p>
     <p>
-      2008-2009 Art in Nature, Holywell, Flintshire. (Artist Residency).
+      2008-2009: <i>Art in Nature</i>, Holywell, Flintshire. (Artist Residency).
     </p>
     <p>
-      2006 Commission – Alice in Wonderland inspired wood sculptures, commissioned by Halton Borough Council as a gift for their twin town in China, Tongling ( now sited at Tongling).
+      2006: <i>Alice in Wonderland</i> inspired wood sculptures, commissioned by Halton Borough Council as a gift for their twin town in China, Tongling (now sited at Tongling).
     </p>
     <p>
-      2000 (and 2003) Hebden Bridge Sculpture Trail, Yorkshire. (Artist Residencies).
+      2000 and 2003: <i>Hebden Bridge Sculpture Trail</i>, Yorkshire. (Artist Residencies).
     </p>
   </Layout>
 )
