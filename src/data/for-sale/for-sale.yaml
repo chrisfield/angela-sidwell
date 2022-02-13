@@ -1,0 +1,30 @@
+images:
+  - image: horse.jpg
+    name: Horse
+    price: £450 (plinth prices start at £40)
+    description: "Ceramic: Stoneware paperclay, oxides and volcanic glazes.
+Free standing, it can also be supplied with an oak or granite plinth."
+    dimensions: 18cm (h) 27cm (w) 12cm (d)
+  - image: horse-head.jpg
+    name: Horse Head
+    price: £395
+    description: "Ceramic: Stoneware paperclay, oxides and volcanic glazes. Oak base."
+    dimensions: 31cm (h) 11cm (w) 14cm (d)
+  - image: curled-up-fox.jpg
+    name: Curled Up Fox
+    price: £495 each
+    description: Bronze Resin, Edition of 24.
+    dimensions: 12cm (h) 20cm (w) 16cm (d)
+    footnote: Edition certificate included
+  - image: fox-head.jpg
+    name: Fox Head
+    price: £195 each
+    description: Bronze Resin, Edition of 24.
+    dimensions: 12cm (h) 13cm (w) 12cm (d)
+    footnote: Edition certificate included
+  - image: fox-head-small.jpg
+    name: Fox Head (small)
+    price: £95 each
+    description: Bronze Resin, Edition of 24.
+    dimensions: 9cm (h) 9cm (w) 9cm (d)
+    footnote: Edition certificate included
