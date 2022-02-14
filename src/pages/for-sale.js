@@ -4,6 +4,16 @@ import Img from "gatsby-image"
 import Layout from "../components/layout"
 import galleryStyles from "./gallery.module.css"
 
+const Sold = ({sold}) => {
+  if (sold)
+    return <span style={{
+      backgroundColor: '#ffcccb',
+      padding: '10px', 
+      borderRadius: '5px',
+      marginRight: '1em'
+    }}>Sold </span>
+  return null;
+};
 
 export default ({ data }) => (
   <Layout  className={galleryStyles.album}>
@@ -29,7 +39,7 @@ export default ({ data }) => (
           <h3>{ image.name }</h3>
           <div>{ image.description }</div>
           <div>Measurments: { image.dimensions }</div>
-          <div>Price: { image.price }</div>
+          <div>Price: { image.price } <Sold sold={image.sold}/></div>
           <div>{ image.footnote }</div>
           { index + 1  < data.allForSaleYaml.edges[0].node.images.length
             && 
@@ -63,6 +73,7 @@ export const query = graphql`
             }
             name
             price
+            sold
             description
             dimensions
             footnote

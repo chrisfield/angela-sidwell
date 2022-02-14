@@ -2,12 +2,14 @@ images:
   - image: horse.jpg
     name: Horse
     price: £450 (plinth prices start at £40)
+    sold: true
     description: "Ceramic: Stoneware paperclay, oxides and volcanic glazes.
 Free standing, it can also be supplied with an oak or granite plinth."
-    dimensions: 18cm (h) 27cm (w) 12cm (d)
+    dimensions: 20cm (h) 27cm (w) 12cm (d)
   - image: horse-head.jpg
     name: Horse Head
     price: £395
+    sold: true
     description: "Ceramic: Stoneware paperclay, oxides and volcanic glazes. Oak base."
     dimensions: 31cm (h) 11cm (w) 14cm (d)
   - image: curled-up-fox.jpg
