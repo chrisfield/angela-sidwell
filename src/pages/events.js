@@ -55,13 +55,7 @@ export default () => (
       <a href="http://www.gallery6newark.co.uk/">Gallery 6</a>, Stodman Street, Newark NG24 1AN 
     </p>
     <p>
-      <a href="https://www.northernmakes.com/">Northen Makes</a>, Clarence Mill, Waterside, Clarence Rd, Bollington, SK10 5GR
-    </p>
-    <p>
       <a href="https://www.objettrouve.co.uk/">Objet Trouvé</a>, 1 Steamer Cottages, High St, Alfriston, Polegate BN26 5TY
-    </p>
-    <p>
-      <a href="https://www.artysancotswolds.co.uk/">Artysan Cotswolds</a>, The Square, Stow-on-the-Wold, Gloucestershire, GL54 1AF
     </p>
   </Layout>
 )
