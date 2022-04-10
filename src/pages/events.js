@@ -13,38 +13,43 @@ export default () => (
 
     <hr/>
 
-    <h2>Shows and Exhibitions</h2>
+    <h2>Shows and Exhibitions in 2022</h2>
 
-    <h3>29th August 2021</h3>
+    <h3>April 30th - June 4th</h3>
+    <p>
+      "A Breath of Fresh Air"
+      <br />
+      <a href="https://www.jarvagallery.com/">Jarva Gallery</a>, Whaley Bridge, 4 Market Street, High Peak, SK23 7LP.
+      <br />
+      Artists: Laura Critchlow, Angela Sidwell, Diana Syder, Daniel Mitchell, Steve McLoughlin
+    </p>
+
+    <h3>15th - 17th July</h3>
+    <p>
+      <a href="https://www.celebratingceramics.co.uk/">Celebrating Ceramics</a>
+      <br />
+      Waterperry Gardens, Waterperry, Oxfordshire, OX33 1LA
+    </p>
+
+    <h3>August 28th</h3>
     <p>
       <a href="http://www.ceramicsinsouthwell.org.uk/">Ceramics in Southwell</a>
       <br />
-      Market Square, Southwell, Nottinghamshire NG25
+      Market Square, Southwell, Notinghamshire, NG25 0FS
     </p>
 
-    <h3>4th and 5th September 2021 (10am to 5pm)</h3>
+    <h3>13th -16th October</h3>
     <p>
-      York Ceramics Fair
-      <br />
-      York St John University, Lord Mayors Walk, York, YO31 ZEX
-      <br />
-      Organised by <a href="https://www.craftpotters.com/">Craft Potters Association</a>
-    </p>
-
-    <h3>1st to 25th September 2021</h3>
-    <p>
-      Exhibition with <a href="https://www.bridgetgreenwood.com/">Bridget Greenwood</a> at <a href="https://gallery6newark.co.uk">Gallery 6</a>
-      <br />
-      Stodman Street, Newark NG24 1AN
-    </p>
-
-    <h3>8th to 10th October 2021</h3>
-    <p>
-      <a href="https://www.greatnorthernevents.co.uk">The Great Northern Contemporary Craft Fair Manchester</a>
+      <a href="https://www.greatnorthernevents.co.uk">Great Northern Contemporary Craft Fair Manchester</a>
       <br />
       Victoria Baths, Hathersage Road, Manchester, M13 0FE
     </p>
  
+    <h3>3rd - 4th December </h3>
+    <p>
+      <a href="https://www.greatnorthernevents.co.uk/homepage-gnccf/gnccf-online-now-on-xmas.aspx">XMAS Great Northern Contemporary Craft Fair ONLINE</a>
+    </p>
+
     <hr/>
 
     <h2>Stockists</h2>
