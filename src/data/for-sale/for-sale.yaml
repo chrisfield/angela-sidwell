@@ -2,7 +2,7 @@ images:
   - image: white-hares.jpg
     name: White Hares
     price: £250 each
-    sold: false
+    sold: true
     description: "Stoneware paperclay, copper oxide and white engobe finish."
     dimensions: Height 26cm ( Hare 1 on left) 30cm ( Hare 2 on right).
   - image: horse.jpg

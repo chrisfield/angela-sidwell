@@ -24,7 +24,7 @@ export default ({ data }) => (
         <a href="mailto:angela@angelasidwell.com"> angela@angelasidwell.com </a>
         or via direct messages on Instagram:
         <a href="https://www.instagram.com/angela_sidwell_artist/"> angela_sidwell_artist </a>,
-        for more images and information.
+        for more images, information or to commision a sculpture.
       </p>
       <p>
         Prices include postage within the UK. Worldwide shipping is available at an extra charge.
